@@ -1,0 +1,17 @@
+{
+  "name": "web3js-block-filter-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "web3": "^1.0.0-beta.51"
+  },
+  "devDependencies": {
+    "budo": "^11.6.1"
+  },
+  "scripts": {
+    "start": "budo index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
